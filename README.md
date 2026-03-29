@@ -1,16 +1,3 @@
----
-title: Automated Road Damage Detection
-emoji: 🛣️
-colorFrom: blue
-colorTo: red
-sdk: gradio
-sdk_version: 6.10.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: A model fine-tuned for automatic road damage detection
----
-
 # 🛣️ Automated Road Damage Detection
 
 > **YOLOv8s** fine-tuned on the **RDD2022** dataset — detecting 4 road damage classes across 6 countries in real time.
